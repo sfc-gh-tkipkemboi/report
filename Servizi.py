@@ -9,7 +9,7 @@ st.title(":bar_chart: Upspace Dashboard :rocket:")
 
 st.markdown("##")
 st.header("Seleziona il report dal menù a tendina :open_file_folder:")
-st.sidebar.success("select report above.")
+# st.sidebar.success("select report above.")
 
 
 with st.expander("Report Servizi"):
